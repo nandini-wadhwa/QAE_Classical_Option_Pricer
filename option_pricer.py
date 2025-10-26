@@ -1,4 +1,3 @@
-!pip install streamlit qiskit qiskit-finance numpy scipy plotly pandas matplotlib
 import streamlit as st
 import numpy as np
 import pandas as pd
